@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EEShopping.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+				<key>dateExpires</key>
+				<string>01/06/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+						<key>dateExpires</key>
+						<string>01/06/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>GTMOAuth2.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4GVUA4RFSG</string>
+						<key>name</key>
+						<string>Riccardo Secori</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+						<key>dateExpires</key>
+						<string>01/06/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>GTMSessionFetcher.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4GVUA4RFSG</string>
+						<key>name</key>
+						<string>Riccardo Secori</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+						<key>dateExpires</key>
+						<string>01/06/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleAPIClientForREST.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4GVUA4RFSG</string>
+						<key>name</key>
+						<string>Riccardo Secori</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+						<key>dateExpires</key>
+						<string>01/06/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleToolboxForMac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4GVUA4RFSG</string>
+						<key>name</key>
+						<string>Riccardo Secori</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7k</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+						<key>dateExpires</key>
+						<string>01/06/18</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>embeddedBinaries</key>
+					<array>
+						<dict>
+							<key>architectures</key>
+							<array>
+								<string>armv7k</string>
+							</array>
+							<key>certificate</key>
+							<dict>
+								<key>SHA1</key>
+								<string>6CD000D96A9E4D7B40FE011E3D15A809102B7911</string>
+								<key>dateExpires</key>
+								<string>01/06/18</string>
+								<key>type</key>
+								<string>iOS Development</string>
+							</dict>
+							<key>entitlements</key>
+							<dict>
+								<key>application-identifier</key>
+								<string>4GVUA4RFSG.com.Horizon.EEShopping.watchkitapp.watchkitextension</string>
+								<key>com.apple.developer.team-identifier</key>
+								<string>4GVUA4RFSG</string>
+								<key>get-task-allow</key>
+								<true/>
+								<key>keychain-access-groups</key>
+								<array>
+									<string>4GVUA4RFSG.com.Horizon.EEShopping.watchkitapp.watchkitextension</string>
+								</array>
+							</dict>
+							<key>name</key>
+							<string>EEShopping watch Extension.appex</string>
+							<key>profile</key>
+							<dict>
+								<key>UUID</key>
+								<string>7a8a6dc5-01a8-4fb4-b7c7-4be7f9ddee21</string>
+								<key>name</key>
+								<string>iOS Team Provisioning Profile: *</string>
+							</dict>
+							<key>team</key>
+							<dict>
+								<key>id</key>
+								<string>4GVUA4RFSG</string>
+								<key>name</key>
+								<string>Riccardo Secori</string>
+							</dict>
+						</dict>
+					</array>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>4GVUA4RFSG.com.Horizon.EEShopping.watchkitapp</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>4GVUA4RFSG</string>
+						<key>get-task-allow</key>
+						<true/>
+						<key>keychain-access-groups</key>
+						<array>
+							<string>4GVUA4RFSG.com.Horizon.EEShopping.watchkitapp</string>
+						</array>
+					</dict>
+					<key>name</key>
+					<string>EEShopping watch.app</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>7a8a6dc5-01a8-4fb4-b7c7-4be7f9ddee21</string>
+						<key>name</key>
+						<string>iOS Team Provisioning Profile: *</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4GVUA4RFSG</string>
+						<key>name</key>
+						<string>Riccardo Secori</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4GVUA4RFSG.com.Horizon.EEShopping</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.in-app-payments</key>
+				<array>
+					<string>merchant.com.EcoEasy.EEShopping</string>
+				</array>
+				<key>com.apple.developer.pass-type-identifiers</key>
+				<array>
+					<string>4GVUA4RFSG.*</string>
+				</array>
+				<key>com.apple.developer.siri</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4GVUA4RFSG</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>EEShopping.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f2d85a94-028f-4775-90dd-5b8229d612a5</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.Horizon.EEShopping</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4GVUA4RFSG</string>
+				<key>name</key>
+				<string>Riccardo Secori</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
